@@ -119,9 +119,9 @@ button {
     padding: 0.5rem 2rem;
     color: #fff;
     line-height: 1.5;
-    min-width: 10rem;
+    min-width: 12rem;
     font-size: 1.25rem;
-    margin: 0 1rem;
+    margin: 0.5rem 1rem;
 }
 .typewriter {
     width: 100%;
